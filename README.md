@@ -1,2 +1,1 @@
-# imgui-menu
-Simple ImGUI cheat design
+Put both sets of text together in your files.
